@@ -1,0 +1,28 @@
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\saeid\Programming\maktab sharif\Maktab-121\Weeks\Week5\HW\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Tamadoni\OneDrive\Desktop\ArminTamaddoni\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
